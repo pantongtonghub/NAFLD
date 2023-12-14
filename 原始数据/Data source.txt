@@ -1,0 +1,18 @@
+The opengwas ids of positive bacteria are as follows（PMID33462485）：
+ebi-a-GCST90016925	Gut microbiota abundance (family Acidaminococcaceae id.421)
+ebi-a-GCST90016941	Gut microbiota abundance (family Lactobacillaceae id.1836)
+ebi-a-GCST90016943	Gut microbiota abundance (family Oxalobacteraceae id.2966)
+ebi-a-GCST90016955	Gut microbiota abundance (unknown family id.1000006161)
+ebi-a-GCST90016978	Gut microbiota abundance (genus Christensenellaceae R 7group id.11283)
+ebi-a-GCST90017018	Gut microbiota abundance (genus Intestinibacter id.11345)
+ebi-a-GCST90017056	Gut microbiota abundance (genus Ruminococcaceae UCG005 id.11363)
+ebi-a-GCST90017080	Gut microbiota abundance (unknown genus id.1000006162)
+ebi-a-GCST90017081	Gut microbiota abundance (unknown genus id.1868)
+ebi-a-GCST90017084	Gut microbiota abundance (unknown genus id.2071)
+ebi-a-GCST90017090	Gut microbiota abundance (order Actinomycetales id.420)
+ebi-a-GCST90017104	Gut microbiota abundance (order NB1n id.3953)
+
+
+NAFLD PMID34841290，The original file is as follows：
+http://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90091001-GCST90092000/GCST90091033/harmonised/34841290-GCST90091033-EFO_0003095-Build37.f.tsv.gz
+
