@@ -1,0 +1,9 @@
+id	
+ebi-a-GCST90016925	Gut microbiota abundance (family Actinomycetaceae id.421)
+ebi-a-GCST90016941	Gut microbiota abundance (family Lactobacillaceae id.1836)
+ebi-a-GCST90016943	Gut microbiota abundance (family Oxalobacteraceae id.2966)
+ebi-a-GCST90016978	Gut microbiota abundance (genus Christensenellaceae R 7group id.11283)
+ebi-a-GCST90017018	Gut microbiota abundance (genus Intestinibacter id.11345)
+ebi-a-GCST90017056	Gut microbiota abundance (genus Ruminococcaceae UCG005 id.11363)
+ebi-a-GCST90017090	Gut microbiota abundance (order Actinomycetales id.420)
+ebi-a-GCST90017104	Gut microbiota abundance (order NB1n id.3953)
